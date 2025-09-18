@@ -32,7 +32,7 @@ Find the password for the next Natas level by exploiting the vulnerability on th
     </div>
 
 4. Screenshot
-   -  Resdirecting to the "files" end point a possible target text file found.
+   -  Redirecting to the "files" endpoint a possible target text file found.
   
    ![alt text](image.png)
 ---
