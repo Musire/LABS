@@ -19,7 +19,7 @@ Find the password for the next Natas level by exploiting the vulnerability on th
 2. Screenshot:
    ![alt text](image-9.png)
    
-   - this prompted that I should check the sourcecode by clicking the link `http://natas9.natas.labs.overthewire.org/index-source.html`
+   - this prompted that I should check the sourcecode by clicking the link `http://natas10.natas.labs.overthewire.org/index-source.html`
 
 3. Observed Page Content:
    ``` html
