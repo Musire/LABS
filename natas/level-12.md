@@ -10,6 +10,7 @@ Find the password for the next Natas level by exploiting the vulnerability on th
 
 ## Tools Used
 - Chromium Browser
+- Burp Suite (proxy + repeater)
 
 ## Login
 1. Logged in with credentials:
