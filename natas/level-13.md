@@ -14,7 +14,7 @@ Find the password for the next Natas level by exploiting the vulnerability on th
 
 ## Login
 1. Logged in with credentials:
-   - **Username**: `natas123
+   - **Username**: `natas13
    - **Password**: `XXXXXX`
   
 2. Screenshot:
