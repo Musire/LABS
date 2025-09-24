@@ -6,7 +6,7 @@ Find the password for the next Natas level by exploiting the vulnerability on th
 ## Environment / Platform
 - Platform: OverTheWire – Natas
 - Level: [14]
-- Difficulty: [Medium]
+- Difficulty: [Easy]
 
 ## Tools Used
 - Chromium Browser
