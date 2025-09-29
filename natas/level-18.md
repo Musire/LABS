@@ -1,4 +1,4 @@
-# [Over The Wire (natas)] – [[Platform](http://natas18.natas.labs.overthewire.org/)] – [09/25/2025]
+# [Over The Wire (natas)] – [[Platform](http://natas18.natas.labs.overthewire.org/)] – [09/26/2025]
 
 ## Objective
 Find the password for the next Natas level by exploiting the vulnerability on this page.  
